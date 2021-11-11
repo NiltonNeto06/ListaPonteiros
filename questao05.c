@@ -1,5 +1,5 @@
 #include <stdio.h>
-// Resultado obitido na ordem:
+// Resultado obtido na ordem:
 // i = 0vet[0] 1.1*(f + 0) = 1.1&vet[0] = 83FF9A0(f + 0) = 83FF9A0
 // i = 1vet[1] 2.2*(f + 1) = 2.2&vet[1] = 83FF9A4(f + 1) = 83FF9A4
 // i = 2vet[2] 3.3*(f + 2) = 3.3&vet[2] = 83FF9A8(f + 2) = 83FF9A8
