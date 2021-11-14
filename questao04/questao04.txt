@@ -1,0 +1,15 @@
+As resposta do codigo abaixo sao (em ordem):
+//  20 
+// 29,0
+// p 
+// e
+// p 
+// e 
+// t 
+// 31 
+// 45 
+// 47 
+// 27 
+// 31 
+// 45 
+// 27 
