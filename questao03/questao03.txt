@@ -1,0 +1,5 @@
+As expressões de atribuição ilegais são:
+-> p = i;
+-> p = &*&i;
+-> i = *&*&j;
+-> i = (*p)++ + *q.
