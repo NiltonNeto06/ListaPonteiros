@@ -1,0 +1,6 @@
+As respostas obtidas pelo programa dessa questão são:
+-> 279ff6cc (mas na questão supomos o endereço desse ponteiro como 4094);
+-> 7;
+-> 5;
+-> 15;
+-> 9.
