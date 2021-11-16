@@ -1,0 +1,2 @@
+A única expressão que referencia o terceiro elemento do vetor "Pulo[]" é:
+-> *(pulo + 2).
