@@ -1,0 +1,3 @@
+O primeiro código denominado "questao08Part1", cria um vetor de 3 números e imprime os elementos desse vetor na ordem que estão inseridos na base decimal;
+E o segundo código denominado "questao08Part2", faz a mesma coisa que o anterior só que no lugar de imprimir os elementos que estão no vetor ele imprime 
+na base Hexadecimal.
