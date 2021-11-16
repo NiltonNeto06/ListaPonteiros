@@ -1,0 +1,21 @@
+Se X for declarado como Char os valores serão os seguintes:
+> X + 1 = 4093;
+> X + 2 = 4094;
+> X + 3 = 4095.
+
+Caso X seja declarado como Int os valores serão:
+> X + 1 = 4094;
+> X + 2 = 4096;
+> X + 3 = 4098.
+
+Caso X seja declarado como Float os valores serão:
+> X + 1 = 4096;
+> X + 2 = 4100;
+> X + 3 = 4104.
+
+Caso X seja declarado como Double os valores serão:
+> X + 1 = 4100;
+> X + 2 = 4108;
+> X + 3 = 4116.
+
+Tudo isso considerando o X estando armazenado no endereço 4092 na memória.
