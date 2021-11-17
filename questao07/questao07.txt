@@ -1,4 +1,4 @@
 As expressões abaixo são válidas, pois não dão erro de compilação quando são executadas no programa em anexo,
-e também não existe o operador p = ++mat, uma vez que mat é uma matriz e também não aceita a soma crescente "p = mat++".
+e também não existe o operador p = ++mat, uma vez que mat é um vetor e também não aceita a soma crescente "p = mat++".
 -> p = mat + 1;
 -> x = (*mat)++.
