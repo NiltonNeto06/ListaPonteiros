@@ -1,0 +1,11 @@
+Os comandos válidos são:
+=> aloha[2] = value;
+=> scanf("%f", &aloha);
+=> printf("%f", aloha);
+=> coisas[4][4] = aloha[3];
+=> pf = aloha.
+
+E os comandos inválidos são:
+=> aloha = value";
+=> coisas[5] = aloha;
+=> pf = values.
