@@ -1,0 +1,2 @@
+Os ponteiros são variáveis com a capacidade de armazenar o endereço de memória de outras variáveis e apontar para elas quando as variáveis
+possuem o mesmo endereço.
